@@ -20,7 +20,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/eddymontana/health-monitoring.git
+git clone https://github.com/eddymontana/health-monitoring
 cd health-monitoring
 Dataset: (Optional, if applicable) Place your health data files (e.g., CSV, Excel) in a data/ directory.
 
